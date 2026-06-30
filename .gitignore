@@ -1,0 +1,19 @@
+# 编译输出
+*.exe
+*.o
+*.obj
+*.out
+
+# 系统文件
+*.docx
+*.txt
+.DS_Store
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+
+# 敏感凭证
+._askpass.sh
