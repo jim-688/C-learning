@@ -5,8 +5,8 @@ int main(){
 	int age =19;
 	float weight  =146.5;
 	printf ("ji:%c\n",name);
-	printf("19:%dËê\n",age);
-	printf("ÌåÖØ:%.1f ¹«½ï\n",weight);
+	printf("19:%d\n",age);
+	printf(":%.1f \n",weight);
 	
 	return 0;
 	
